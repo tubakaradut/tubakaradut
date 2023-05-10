@@ -8,7 +8,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on .Net, .Net Core and MVC</p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>React and React Native </strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>React </strong></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:tubakaradut.bugday@gmail.com">tubakaradut.bugday@gmail.com</a></strong></p>
